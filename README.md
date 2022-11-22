@@ -1,7 +1,7 @@
 # Obstacle Avoiding Robo 🤖 🚗 
 
 - Built an obstacle avoiding robot utilizing an ultrasonic sensor to locate obstructions.
-- The ultrasonic sensor is mounted on top of a servo motor.
+- The ultrasonic sensor is mounted on top of a servo motor enabling the robo to see 180°.
 - Incroptated a dual H-bridge motor driver to control two DC motors.
 - Soldered various hardware components.
 - Wrote embedded C/C++ code for Arduino microcontroller
